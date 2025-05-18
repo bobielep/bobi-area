@@ -14,7 +14,7 @@ print("4) Circle")
 print("5) Quit")
 
 choose = int(input("Which shape:"))
-math
+
 if choose == 1:
     hight = int(input("height:"))
     base = int (input("base:"))
